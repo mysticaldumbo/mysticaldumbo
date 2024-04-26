@@ -1,4 +1,4 @@
-### languages i know:
+### languages i know (always expanding):
 - HTML
 - CSS
 - JavaScript
